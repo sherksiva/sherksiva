@@ -16,8 +16,7 @@
     <a href="[sherksiva.github.io/](https://sherksiva.github.io/)"><strong>My profile »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/othneildrew/Best-README-Template](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)"><strong>Linked in Profile » </strong></a>
-    &middot;
+    <a href="[https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)"><strong>Linked in Profile » </strong></a>
   </p>
 </div>
 <!--
