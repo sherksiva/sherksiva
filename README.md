@@ -1,14 +1,22 @@
 ## Hi there , This is Sivaprakash Raman👋
 
-<div align="center">
-  ]
-
-  <p align="center">
+<div>
+  <p>
+    IT Professional with over 8+ years of experience in Full-Stack development,
+    specializing in dynamic web projects and Cloud-based E-Commerce Point of Sale
+    (POS) systems. Proficient in React, Angular, Node JS, and JavaScript ,
+    demonstrating strong technical skills across multiple programming languages.
+    Proven track record in managing projects effectively while maintaining excellent
+    customer relations. Expertise in all stages of the development cycle ensures timely
+    and successful project delivery.
+  </p>
+  <br />
+  <p>
     <br />
     <a href="[sherksiva.github.io/](https://sherksiva.github.io/)"><strong>My profile »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/othneildrew/Best-README-Template](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)">Linked in Profile »</a>
+    <a href="[https://github.com/othneildrew/Best-README-Template](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)"><strong>Linked in Profile » </strong></a>
     &middot;
   </p>
 </div>
