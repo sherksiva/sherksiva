@@ -12,6 +12,7 @@
   </p>
   <br />
   <p>
+    [![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://your-portfolio-link)
     <br />
     <a href="[sherksiva.github.io/](https://sherksiva.github.io/)"><strong>My profile »</strong></a>
     <br />
