@@ -12,11 +12,13 @@
   </p>
   <br />
   <p>
-    [![My Profile](My profile?style=for-the-badge&logo=link&logoColor=white)](https://sherksiva.github.io/)
+    [![My Profile]](https://sherksiva.github.io/)
     <br />
-    <a href="[sherksiva.github.io/](https://sherksiva.github.io/)"><strong>My profile »</strong></a>
+    <!-- <a href="[sherksiva.github.io/](https://sherksiva.github.io/)"><strong>My profile »</strong></a> -->
     <br />
     <br />
+    [![Linked In]]([https://sherksiva.github.io/](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/))
+    
     <a href="[https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)"><strong>Linked in Profile » </strong></a>
   </p>
 </div>
