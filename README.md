@@ -21,10 +21,6 @@
     <br />
   </p>
 </div>
-[![trinhminhtriet's LinkedIn Profile](icons/linkedin.png)](https://linkedin.com/in/triet-trinh)
-[![trinhminhtriet's Facebook Profile](images/facebook.png)](https://www.facebook.com/trinhminhtriet)
-[![trinhminhtriet's X Profile](images/twitter.png)](https://x.com/trinhminhtriet)
-[![trinhminhtriet's Credly Profile](images/credly.png)](https://www.credly.com/users/trinhminhtriet)
 
 <!--
 **sherksiva/sherksiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
