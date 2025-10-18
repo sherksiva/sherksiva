@@ -13,11 +13,11 @@
   <br />
   <p>
     <p>Profile</p>
-      [![Sivaprakash Raman's github Profile](icons/github.png)](https://sherksiva.github.io/)
+      [![Sivaprakash Raman's github Profile](/icons/github.png)](https://sherksiva.github.io/)
     <br />
     <br />
     <p>Linked In</p>
-      [![Sivaprakash Raman's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)
+      [![Sivaprakash Raman's LinkedIn Profile](/icons/linkedin.png)](https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/)
     <br />
   </p>
 </div>
