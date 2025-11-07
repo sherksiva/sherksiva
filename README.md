@@ -23,8 +23,8 @@
     <br />
     <p>For My Works</p>
     <br />
-    <p>1. https://sherksiva.github.io/ - It having my CSS skills and HTML.</p>
-    <p>2. https://sherksiva.github.io/sivaprakash_weds_amutha/ - It having my HTML, CSS Skills.</p>
+    <p>1. https://sherksiva.github.io/ - It having my HTML,Css Skills.</p>
+    <p>2. https://sherksiva.github.io/sivaprakash_weds_amutha/ - It having my HTML,CSS Skills.</p>
     <p>3. https://github.com/sherksiva/reactpagination  - Pagination only get call - React, HTML, CSS  - https://reactpagination-alpha.vercel.app/.</p>
     <p>4. https://github.com/sherksiva/curdreactcomponent - It having a CURD operation - React , HTML , CSS, node [CURD] - https://curdreactcomponent.vercel.app/.</p>
     <p>5. https://github.com/sherksiva/node-practice - It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup.</p>
