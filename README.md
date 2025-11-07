@@ -35,6 +35,7 @@
     <p>3. https://github.com/sherksiva/reactSearchBar -Its having a component splitting and powerful use of components -   https://reactsearchbarversion01.vercel.app/</p>
     <p>4. https://github.com/sherksiva/node-practice - It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup.</p>
     <p>5. https://github.com/sherksiva/AllDBReadme - PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation.</p>
+    <p>6. https://github.com/sherksiva/nodejs_mysql_swagger_api - NodeJs, MySQL with Swagger</p>
     
   </div>
 </div>
