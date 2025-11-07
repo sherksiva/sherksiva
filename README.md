@@ -28,6 +28,8 @@
     <p>3. https://sherksiva.github.io/weather_forecasting/ </p>
     <p>4. https://sivaprakashbirthdaycountv1.vercel.app/ </p> 
     <p>5. https://profilebadgev1.vercel.app/ </p>
+    <p>6. https://codepen.io/sherksiva/pen/VYeJezY - Profile Badge - Codepen</p>
+    <p>7. https://fpmyx7.csb.app/ - Form with validation and Digital Time</p>
     <br />
     <h4>REACT, NODE, MYSQL, POSTGRESQL, MONGO DB SKILLS</h4>
     <p>1. https://fpmyx7.csb.app/ - Code SandBox Demo for FORM
