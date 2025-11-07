@@ -23,15 +23,20 @@
     <br />
     <p>For My Works</p>
     <br />
-    <p>1. https://sherksiva.github.io/ - It having my HTML,Css Skills.</p>
-    <p>2. https://sherksiva.github.io/sivaprakash_weds_amutha/ - It having my HTML,CSS Skills.</p>
-    <p>3. https://github.com/sherksiva/reactpagination  - Pagination only get call - React, HTML, CSS  - https://reactpagination-alpha.vercel.app/.</p>
-    <p>4. https://github.com/sherksiva/curdreactcomponent - It having a CURD operation - React , HTML , CSS, node [CURD] - https://curdreactcomponent.vercel.app/.</p>
-    <p>5. https://github.com/sherksiva/node-practice - It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup.</p>
-    <p>6. https://github.com/sherksiva/AllDBReadme - PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation.</p>
-    <p>7. https://github.com/sherksiva/reactSearchBar -Its having a component splitting and powerful use of components - https://reactsearchbarversion01.vercel.app/</p>
-    <p>8. https://sivaprakashbirthdaycountv1.vercel.app/ - HTML, CSS</p> 
-    <p>9. https://profilebadgev1.vercel.app/ - HTML, CSS</p> 
+    <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
+    <p>1. https://sherksiva.github.io/ </p>
+    <p>2. https://sherksiva.github.io/sivaprakash_weds_amutha/ </p>
+    <p>3. https://sherksiva.github.io/weather_forecasting/ </p>
+    <p>4. https://sivaprakashbirthdaycountv1.vercel.app/ </p> 
+    <p>5. https://profilebadgev1.vercel.app/ </p>
+    <br />
+    <h4>REACT, NODE, MYSQL, POSTGRESQL, MONGO DB SKILLS</h4>
+    <p>1. https://github.com/sherksiva/reactpagination  - Pagination only get call - React, HTML, CSS  - https://reactpagination-alpha.vercel.app/.</p>
+    <p>2. https://github.com/sherksiva/curdreactcomponent - It having a CURD operation - React , HTML , CSS, node [CURD] - https://curdreactcomponent.vercel.app/.</p>
+    <p>3. https://github.com/sherksiva/reactSearchBar -Its having a component splitting and powerful use of components - https://reactsearchbarversion01.vercel.app/</p>
+    <p>4. https://github.com/sherksiva/node-practice - It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup.</p>
+    <p>5. https://github.com/sherksiva/AllDBReadme - PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation.</p>
+    
   </div>
 </div>
 <!--
