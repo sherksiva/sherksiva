@@ -29,11 +29,11 @@
     <p>3. https://sherksiva.github.io/weather_forecasting/ </p>
     <p>4. https://sivaprakashbirthdaycountv1.vercel.app/ </p> 
     <p>5. https://profilebadgev1.vercel.app/ </p>
-    <p>6. https://codepen.io/sherksiva/pen/VYeJezY - Profile Badge - Codepen</p>
+    <p>6. https://codepen.io/sherksiva/pen/VYeJezY - Profile Badge - [ Codepen ]</p>
     <br />
     <h4>REACT, NODE, MYSQL, POSTGRESQL, MONGO DB SKILLS</h4>
     <br />
-    <p>1. https://fpmyx7.csb.app/ - Form with validation and Digital Time</p>
+    <p>1. https://fpmyx7.csb.app/ - Form with validation and Digital Time [ Code Sand Box ]</p>
     <p>2. https://github.com/sherksiva/reactpagination  - Pagination only get call - React, HTML, CSS  - https://reactpagination-alpha.vercel.app/.</p>
     <p>3. https://github.com/sherksiva/curdreactcomponent - It having a CURD operation - React , HTML , CSS, node [CURD] - https://curdreactcomponent.vercel.app/.</p>
     <p>4. https://github.com/sherksiva/reactSearchBar -Its having a component splitting and powerful use of components -   https://reactsearchbarversion01.vercel.app/</p>
