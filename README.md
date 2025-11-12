@@ -24,9 +24,9 @@
     <br />
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
     <br />
-    <p>1. https://sherksiva.github.io/ </p>
-    <p>2. https://sherksiva.github.io/sivaprakash_weds_amutha/ </p>
-    <p>3. https://sherksiva.github.io/weather_forecasting/ </p>
+    <p>1. [My Detailed Resume Webpage](https://sherksiva.github.io/)</p>
+    <p>2. [Wedding Invitation Sample](https://sherksiva.github.io/sivaprakash_weds_amutha/)</p>
+    <p>3. [Weather Forecasting](https://sherksiva.github.io/weather_forecasting/) </p>
     <p>4. https://sivaprakashbirthdaycountv1.vercel.app/ </p> 
     <p>5. https://profilebadgev1.vercel.app/ </p>
     <p>6. https://codepen.io/sherksiva/pen/VYeJezY - Profile Badge - [ Codepen ]</p>
