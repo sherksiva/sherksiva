@@ -23,6 +23,7 @@
     <h4>MY RECENT WORKS</h4>
     <br />
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
+    This site was built using [GitHub Pages](https://pages.github.com/).
     <br />
     <p>1. [My Detailed Resume Webpage](https://sherksiva.github.io/)</p>
     <p>2. [Wedding Invitation Sample](https://sherksiva.github.io/sivaprakash_weds_amutha/)</p>
