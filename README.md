@@ -24,7 +24,7 @@
     <br />
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
     <br />
-    <p>1.  <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage">My Detailed Resume Webpage</a>.
+    <p>1.  <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">My Detailed Resume Webpage</a>.
     <p>2.  <a href="https://sherksiva.github.io/sivaprakash_weds_amutha/" target="_blank" title="Wedding Invitation Sample">Wedding Invitation Sample</a>.
     <p>3.  <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Weather Forecasting</a>.
     <p>4.  <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Birthday Count</a>. 
