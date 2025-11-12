@@ -25,7 +25,7 @@
     Link to the sample section: [Link Text](#sample-section).
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
     <br />
-    <p>1. [My Detailed Resume Webpage](https://sherksiva.github.io/)</p>
+    <p>1.  <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage">My Detailed Resume Webpage</a>
     <p>2. [Wedding Invitation Sample](https://sherksiva.github.io/sivaprakash_weds_amutha/)</p>
     <p>3. [Weather Forecasting](https://sherksiva.github.io/weather_forecasting/) </p>
     <p>4. https://sivaprakashbirthdaycountv1.vercel.app/ </p> 
