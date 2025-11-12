@@ -29,7 +29,7 @@
     <p>3.  <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Weather Forecasting</a>.
     <p>4.  <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Birthday Count</a>. 
     <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Profile Badge Demo</a>.
-    <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Codepen">Profile Badge Code Pen (If you see my profile you can see all other codes of mine)</a>.
+    <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Codepen">Profile Badge Code Pen ( If you see my profile you can see all other codes of mine )</a>.
     <br />
     <h4>REACT, NODE, MYSQL, POSTGRESQL, MONGO DB SKILLS</h4>
     <br />
@@ -41,7 +41,6 @@
     <p>6.  It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup - <a href="https://github.com/sherksiva/node-practice" target="_blank" title="NodePractice">Node              Practice</a>
     <p>7.  PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation - <a href="https://github.com/sherksiva/AllDBReadme" target="_blank" >SQL,MongoDB,PostgreSQL</a>.
     <p>8.  Node Js Project with mySQL - <a href="https://github.com/sherksiva/nodejs_mysql_swagger_api" target="_blank" > NodeJs, MySQL with Swagger</a>.
-    
   </div>
 </div>
 <!--
