@@ -43,10 +43,11 @@
     <p>1.  Code SandBox - <a href="https://fpmyx7.csb.app/" target="_blank" title="Profile Badge Codepen"> Form with validation and Digital Time [ Code Sand Box ]</a>.</p>
     <p>2.  Pagination only get call - React, HTML, CSS  - <a href="https://reactpagination-alpha.vercel.app/" target="_blank" title="React Pagination">React Pagination Demo</a>.</p>
     <p>3.  It having a CURD operation - React , HTML , CSS, node [CURD] - <a href="https://curdreactcomponent.vercel.app/" target="_blank" title="React CRUD">React CRUD Operation</a>.</p>
-    <p>4.  Its having a component splitting and powerful use of components - <a href="https://reactsearchbarversion01.vercel.app/" target="_blank" title="React Search Bar">React Search Bar</a>.</p>
-    <p>5.  Its having a react with firebase code - Runs perfectly in local [having some problem in versal] - <a href ="https://github.com/sherksiva/reactwithfirebase"  target="_blank" title="React Firebase">React            fireBase with google Login</a>.</p>
-    <p>6.  Its having a list of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" > Indoor Plants                Shop</a>
-    <p>7.  Its having a list of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Cloud Cards </a>
+    <p>4.  It having a component splitting and powerful use of components - <a href="https://reactsearchbarversion01.vercel.app/" target="_blank" title="React Search Bar">React Search Bar</a>.</p>
+    <p>5.  It having a react with firebase code - Runs perfectly in local [having some problem in versal] - <a href ="https://github.com/sherksiva/reactwithfirebase"  target="_blank" title="React Firebase">React             fireBase with google Login</a>.</p>
+    <p>6.  It having a list of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" > Indoor Plants                 Shop</a>
+    <p>7.  It having a list of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Cloud Cards </a>
+    <p>8.  It having a Notes list and multiple components spliting and best code - <a href="https://vercel.com/sherksivas-projects/reacttsnotpad.rspv01" targer="_blank" title="notes">Notes App</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
