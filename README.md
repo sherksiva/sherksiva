@@ -31,7 +31,12 @@
     <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Profile Badge Demo</a>.</p>
     <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Codepen">Profile Badge Code Pen ( If you see my profile you can see all other codes of mine )</a>.</p>
     <br />
-    <h4>REACT, ANGULAR, NODE, MYSQL, POSTGRESQL, MONGO DB SKILLS</h4>
+    <h4>ANGULAR DEMO</h4>
+    <br />
+    <p>1. Angular items CRUD - <a href="https://itemscurdappangularrsp01.vercel.app/" target="_blank">Items CRUD</a></p>
+    <p>2.  Master in Templete Edit - <a href="https://sivaprakashdashboradangularv01.vercel.app/#/dashboard" target="_blank">Sivaprakash DashBoard Angular</a> </p>
+    <br />
+    <h4>REACT DEMO</h4>
     <br />
     <p>1.  Code SandBox - <a href="https://fpmyx7.csb.app/" target="_blank" title="Profile Badge Codepen"> Form with validation and Digital Time [ Code Sand Box ]</a>.</p>
     <p>2.  Pagination only get call - React, HTML, CSS  - <a href="https://reactpagination-alpha.vercel.app/" target="_blank" title="React Pagination">React Pagination Demo</a>.</p>
@@ -40,13 +45,18 @@
     <p>5.  Its having a react with firebase code - Runs perfectly in local [having some problem in versal] - <a href ="https://github.com/sherksiva/reactwithfirebase"  target="_blank" title="React Firebase">React            fireBase with google Login</a>.</p>
     <p>6.  Its having a list of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" > Indoor Plants                Shop</a>
     <p>7.  Its having a list of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Cloud Cards </a>
-    <p>8. Node Js with swagger - <a href="https://nodejsswaggerrsprepov02-86b218bnx-sherksivas-projects.vercel.app/" target="_blank" >NodeJs swagger with versal</a>
-    <p>9.  It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup - <a href="https://github.com/sherksiva/node-practice" target="_blank" title="NodePractice">Node              Practice</a></p>
-    <p>10.  PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation - <a href="https://github.com/sherksiva/AllDBReadme" target="_blank" >SQL,MongoDB,PostgreSQL</a>.</p>
-    <p>11.  Node Js Project with mySQL - <a href="https://github.com/sherksiva/nodejs_mysql_swagger_api" target="_blank" > NodeJs, MySQL with Swagger</a>.</p>
-    <p>12.  Node Js MongoDB App - <a href="https://github.com/sherksiva/nodejs-auto-swagger-with-CURD" target="_blank">Node JS with MONGO DB </a> [It will run in local, not deployed in versal] </p>
-    <p>13. Node Js MYSQL APP - <a href="https://github.com/sherksiva/nodejs_mysql_swagger_api" target="_blank"> Node JS App with MYSQL Swagger App </a>
-    <p>14.  Master in Templete Edit - <a href="https://sivaprakashdashboradangularv01.vercel.app/#/dashboard" target="_blank">Sivaprakash DashBoard Angular</a> </p>
+    <h4>REACT, ANGULAR, NODE, MYSQL, POSTGRESQL, MONGO DB SKILLS</h4>
+    <br />
+    <h4>NODE DEMO</h4>
+    <br />
+    <p>1.  Node Js with swagger - <a href="https://nodejsswaggerrsprepov02-86b218bnx-sherksivas-projects.vercel.app/" target="_blank" >NodeJs swagger with versal</a>
+    <p>2.  Node Js Project with mySQL - <a href="https://github.com/sherksiva/nodejs_mysql_swagger_api" target="_blank" > NodeJs, MySQL with Swagger</a>. [Not Deployed in Versal , Working fine in local]</p>
+    <p>3.  Node Js MongoDB App - <a href="https://github.com/sherksiva/nodejs-auto-swagger-with-CURD" target="_blank">Node JS with MONGODB with Swagger</a>. [Not Deployed in Versal , Working fine in local] </p>
+    <p>4.  Node Js MYSQL APP - <a href="https://github.com/sherksiva/nodejs_mysql_swagger_api" target="_blank"> Node JS App with MYSQL with Swagger</a>. [Not Deployed in Versal , Working fine in local] </p>
+    <br />
+    <h4>NODEJS WITH INITIAL SERVER CODE & DB CONNECTION DOCS</h4>
+    <p>1.  It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup - <a href="https://github.com/sherksiva/node-practice" target="_blank" title="NodePractice">Node              Practice</a></p>
+    <p>2.  PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation - <a href="https://github.com/sherksiva/AllDBReadme" target="_blank" >SQL,MongoDB,PostgreSQL</a>.</p>
   </div>
 </div>
 <!--
