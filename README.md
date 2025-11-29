@@ -19,7 +19,7 @@
     <p>Linked In</p>
       https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/
     <br />
-    <br />
+    [![All demo's are responsible for desktop, tablet, mobile][Note]]
     <h4>MY RECENT WORKS</h4>
     <br />
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
