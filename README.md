@@ -36,7 +36,8 @@
     <h4>ANGULAR DEMO</h4>
     <br />
     <p>1. Angular items CRUD - <a href="https://itemscurdappangularrsp01.vercel.app/" target="_blank">Items CRUD</a></p>
-    <p>2.  Master in Templete Edit - <a href="https://sivaprakashdashboradangularv01.vercel.app/#/dashboard" target="_blank">Sivaprakash DashBoard Angular</a> </p>
+    <p>2. Master in Templete Edit - <a href="https://sivaprakashdashboradangularv01.vercel.app/#/dashboard" target="_blank">Sivaprakash DashBoard Angular</a> </p>
+    <p>3. JWT Authentication in Angular, NodeJS - <a href="https://github.com/sherksiva/jwt-auth-project" target="_blank">MEAN STACK Authentication</a></p>
     <br />
     <h4>REACT DEMO</h4>
     <br />
