@@ -19,7 +19,6 @@
     <p>Linked In</p>
       https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/
     <br />
-    ![](https://komarev.com/ghpvc/?username=sherksiva&color=blue&style=for-the-badge)
     <br />
     Note : All demo's are responsible for desktop, tablet, mobile
     <br />
