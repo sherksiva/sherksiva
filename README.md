@@ -19,11 +19,9 @@
     <p>Linked In</p>
       https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/
     <br />
-    <br />
     Note : All demo's are responsible for desktop, tablet, mobile
     <br />
     <h4>MY RECENT WORKS</h4>
-    <br />
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
     <br />
     <p>1.  <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">My Detailed Resume Webpage</a>.</p>
