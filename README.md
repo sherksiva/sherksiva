@@ -47,7 +47,7 @@
     <p>5.  It having a react with firebase code - Runs perfectly in local [having some problem in versal] - <a href ="https://github.com/sherksiva/reactwithfirebase"  target="_blank" title="React Firebase">React             fireBase with google Login</a>.</p>
     <p>6.  It having a list of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" > Indoor Plants                 Shop</a>
     <p>7.  It having a list of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Cloud Cards </a>
-    <p>8.  It having a Notes list and multiple components spliting and best code - <a href="https://vercel.com/sherksivas-projects/reacttsnotpad.rspv01" targer="_blank" title="notes">Notes App</a></p>
+    <p>8.  It having a Notes list and multiple components spliting and best code - <a href="https://reacttsnotpadrspv01.vercel.app/" targer="_blank" title="notes">Notes App</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
