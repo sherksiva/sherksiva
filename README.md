@@ -48,9 +48,10 @@
     <p>6.  It having a list of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" > Indoor Plants                 Shop</a>
     <p>7.  It having a list of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Cloud Cards </a>
     <p>8.  It having a Notes list and multiple components spliting and best code - <a href="https://reacttsnotpadrspv01.vercel.app/" targer="_blank" title="notes">Notes App</a></p>
-    <p>9.  <a href="https://github.com/sherksiva/GetApiCallReact" title="React Get Call">React Get API Call</a> - <a href="https://reactapicallsample.vercel.app/">Demo</a></p>
-    <p>10.  <a href="https://github.com/sherksiva/ReactCRUD" title="React CRUD Call">React CRUD </a> - <a href="https://reactcrud-iota.vercel.app/">Demo</a></p>
-    <p>11.  <a href="https://github.com/sherksiva/reactHooksForCRUD" title="React CRUD Call with Hooks">React CRUD with Hooks</a> - <a href="https://crudoperationreacthooks.vercel.app/"> Demo</a>.</p>
+    <p>9.  REACT GET Call Alone - <a href="https://github.com/sherksiva/GetApiCallReact" title="React Get Call">Github</a> - <a href="https://reactapicallsample.vercel.app/">Demo</a></p>
+    <p>10. REACT CRUD UI only - <a href="https://github.com/sherksiva/ReactCRUD" title="React CRUD Call">Github </a> - <a href="https://reactcrud-iota.vercel.app/">Demo</a></p>
+    <p>11. REACT with api CRUD Hooks - <a href="https://github.com/sherksiva/reactHooksForCRUD" title="React CRUD Call with Hooks">Github</a> - 
+           <a href="https://crudoperationreacthooks.vercel.app/"> Demo</a>.</p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
