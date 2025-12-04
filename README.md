@@ -52,6 +52,7 @@
     <p>10. REACT CRUD UI only - <a href="https://github.com/sherksiva/ReactCRUD" title="React CRUD Call">Github </a> - <a href="https://reactcrud-iota.vercel.app/">Demo</a></p>
     <p>11. REACT with api CRUD Hooks - <a href="https://github.com/sherksiva/reactHooksForCRUD" title="React CRUD Call with Hooks">Github</a> - 
            <a href="https://crudoperationreacthooks.vercel.app/"> Demo</a>.</p>
+    <p>12. React Custom Hooks - <a href="https://github.com/sherksiva/react-custom-hooks" title="Custom-hooks" target="_blank">Custom Hooks</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
