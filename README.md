@@ -53,7 +53,7 @@
     <p>11. REACT with api CRUD Hooks - <a href="https://github.com/sherksiva/reactHooksForCRUD" title="React CRUD Call with Hooks">Github</a> - 
            <a href="https://crudoperationreacthooks.vercel.app/"> Demo</a>.</p>
     <p>12. React Custom Hooks - <a href="https://github.com/sherksiva/react-custom-hooks" title="Custom-hooks" target="_blank">Custom Hooks</a></p>
-    <p>13. React Todo [latest version] <a href="https://react-to-do-list-add-delete-complet.vercel.app/" title="React-to-Do" target="_blank">Demo</a> - <a href="https://github.com/sherksiva/react-to-do-list-add-             delete-complete" title="Github link" target="_blank">Github</a></p>
+    <p>13. React Todo [latest version] <a href="https://react-to-do-list-add-delete-complet.vercel.app/" title="React-to-Do" target="_blank">Demo</a> - <a href="https://github.com/sherksiva/react-to-do-list-add-delete-complete" title="Github link" target="_blank">Github</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
