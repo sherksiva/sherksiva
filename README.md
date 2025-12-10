@@ -17,9 +17,7 @@
     <br />
     <h4>LINKEDIN</h4>
       <a href="https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/" target="_blank" title="SivaprakashRaman Linked In Page" target="_blank">LinkedIn</a>.</p>
-    <br />
     <h5>Note : All demo's are responsible for desktop, tablet, mobile.</h5>
-    <br />
     <h4>MY RECENT WORKS</h4>
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
     <br />
