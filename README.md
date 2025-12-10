@@ -15,10 +15,8 @@
     <h4>PROFILE</h4>
       <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">My Professtional Details</a>.</p>
     <br />
-    <br />
     <h4>LINKEDIN</h4>
       <a href="https://www.linkedin.com/in/sivaprakash-raman-71ba4911a/" target="_blank" title="SivaprakashRaman Linked In Page" target="_blank">LinkedIn</a>.</p>
-    <br />
     <br />
     <h5>Note : All demo's are responsible for desktop, tablet, mobile.</h5>
     <br />
