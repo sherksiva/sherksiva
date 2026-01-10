@@ -27,12 +27,7 @@
     <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Profile Badge (Demo)</a>.</p>
     <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Codepen">Profile Badge Code Pen ( If you see my profile you can see all other codes of mine )</a>.</p>
     <br />
-    <h4>ANGULAR DEMO</h4>
-    <br />
-    <p>1. Angular items CRUD - <a href="https://itemscurdappangularrsp01.vercel.app/" target="_blank">Items CRUD (Demo)</a>.</p>
-    <p>2. Master in Templete Edit - <a href="https://sivaprakashdashboradangularv01.vercel.app/#/dashboard" target="_blank">Sivaprakash DashBoard Angular (Demo)</a>. </p>
-    <p>3. JWT Authentication in Angular, NodeJS - <a href="https://github.com/sherksiva/jwt-auth-project" target="_blank">MEAN STACK Authentication (Demo)</a>.</p>
-    <br />
+    
     <h4>REACT DEMO</h4>
     <br />
     <p>1.  Code SandBox - <a href="https://fpmyx7.csb.app/" target="_blank" title="Profile Badge Codepen"> Form with validation and Digital Time [ Code Sand Box ]</a>.</p>
@@ -60,6 +55,12 @@
     <h4>NODEJS WITH INITIAL SERVER CODE & DB CONNECTION DOCS</h4>
     <p>1.  It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup - <a href="https://github.com/sherksiva/node-practice" target="_blank" title="NodePractice">Node              Practice (Github)</a>.</p>
     <p>2.  PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation - <a href="https://github.com/sherksiva/AllDBReadme" target="_blank" >SQL,MongoDB,PostgreSQL (Github)</a>.</p>
+    <br />
+    <h4>ANGULAR DEMO</h4>
+    <br />
+    <p>1. Angular items CRUD - <a href="https://itemscurdappangularrsp01.vercel.app/" target="_blank">Items CRUD (Demo)</a>.</p>
+    <p>2. Master in Templete Edit - <a href="https://sivaprakashdashboradangularv01.vercel.app/#/dashboard" target="_blank">Sivaprakash DashBoard Angular (Demo)</a>. </p>
+    <p>3. JWT Authentication in Angular, NodeJS - <a href="https://github.com/sherksiva/jwt-auth-project" target="_blank">MEAN STACK Authentication (Demo)</a>.</p>
     <br />
     <h4>ELECTRON REACT APP</h4>
     <p>1.  Electron react app - <a href="https://github.com/sherksiva/electron-react-app" target="_blank">Electron React Github</a>.</p>
