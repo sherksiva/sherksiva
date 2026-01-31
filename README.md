@@ -26,7 +26,7 @@
     <p>3.  <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Weather Forecasting (Demo)</a>.</p>
     <p>4.  <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Birthday Count (Demo)</a>. </p>
     <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Profile Badge (Demo)</a>.</p>
-    <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Codepen">Profile Badge Code Pen ( If you see my profile you can see               all other codes of mine )</a>.</p>
+    <p>6.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Codepen">Profile Badge Code Pen ( If you see my profile you can see               all other codes of mine )</a>.</p>
     <br />
     <h4>REACT DEMO</h4>
     <br />
