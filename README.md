@@ -11,8 +11,6 @@
     and successful project delivery.
   </p>
   <br />
-  [![GitHub followers](https://img.shields.io/github/followers/sherksiva?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/sherksiva?tab=followers)
-  ![Profile Views](https://komarev.com/ghpvc/?username=sherksiva&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
   <div>
     <h4>PROFILE</h4>
       <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">My Professtional Details</a>.</p>
