@@ -67,6 +67,11 @@
     <br />
     <h4>ELECTRON REACT APP</h4>
     <p>1.  Electron react app - <a href="https://github.com/sherksiva/electron-react-app" target="_blank">Electron React Github</a>.</p>
+    <br />
+    <h4>Open Ai Chat Bot</h4>
+    <br />
+    <p>1. Open AI Chat Bot using React - <a href="https://github.com/sherksiva/Open-Api-Chat-Bot" target="_blank" >OpenAI Chat Bot</a></p>
+    <br />
   </div>
 </div>
 <!--
