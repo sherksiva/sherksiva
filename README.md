@@ -53,7 +53,7 @@
     <p>2.  Node Js Project with mySQL - <a href="https://github.com/sherksiva/nodejs_mysql_swagger_api" target="_blank" > NodeJs, MySQL with Swagger</a>. [Not Deployed in Versal , Working fine in local].</p>
     <p>3.  Node Js MongoDB App - <a href="https://github.com/sherksiva/nodejs-auto-swagger-with-CURD" target="_blank">Node JS with MONGODB with Swagger</a>. [Not Deployed in Versal , Working fine in local]. </p>
     <p>4.  JWT/Protected data access  - <a href="https://github.com/sherksiva/reactjwtauthnode" target="_blank">Node JS with JWT Token [Backend folder]</a>. [Not Deployed in vercel, Working fine in local]. </p>
-    <p>5.  JWT Authentication - <a href="https://github.com/sherksiva/jwt-auth-project" target="_blank">JWT AUTHENTICATION</a>. [Backend folder]</p>.
+    <p>5.  JWT Authentication [Detailed User interface with tokenized methods] - <a href="https://github.com/sherksiva/jwt-auth-project" target="_blank">JWT AUTHENTICATION</a>. [Backend folder]</p>.
     <br />
     <h4>NODEJS WITH INITIAL SERVER CODE & DB CONNECTION DOCS</h4>
     <p>1. Node JS inital server code in express with JWT Token - <a href="https://github.com/sherksiva/nodeInitialServerwithJWT" target="_blank" title="Node server" >Node Server with JWT</a>
