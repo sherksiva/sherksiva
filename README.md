@@ -60,6 +60,10 @@
     <p>2.  It having main JS like express.js Initial setup. - With CURD Operation , initial Node express.js setup - <a href="https://github.com/sherksiva/node-practice" target="_blank" title="NodePractice">Node              Practice (Github)</a>.</p>
     <p>3.  PostgreSQL , MongoDB , SQL Connection Code and sample CRUD operation - <a href="https://github.com/sherksiva/AllDBReadme" target="_blank" >SQL,MongoDB,PostgreSQL (Github)</a>.</p>
     <br />
+    <h4>Play Wright </h4>
+    <br />
+    <p>1. Play wright test for TODO App - <a href="https://github.com/sherksiva/Playwright_test" target="_blank">Play Wright Test for TODO App</a>.</p>
+    <br />
      <h4>ANGULAR DEMO</h4>
     <br />
     <p>1. Angular items CRUD - <a href="https://itemscurdappangularrsp01.vercel.app/" target="_blank">Items CRUD (Demo)</a>.</p>
