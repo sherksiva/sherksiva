@@ -77,6 +77,9 @@
     <br />
     <p>1. Open AI Chat Bot using React - <a href="https://github.com/sherksiva/Open-Api-Chat-Bot" target="_blank" >OpenAI Chat Bot</a></p>
     <br />
+    <h4>PAYMENT GATEWAY</h4>
+    <p>1. Paypal payment gateway - <a href="https://github.com/sherksiva/paypal_payment_gateway" target="_blank">Paypal</a></p>
+    <p>2. Stripe payment gateway - <a href="https://github.com/sherksiva/StripePaymentGateway" target="_blank">Stripe</a></p>
   </div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherksiva&label=Visitors&color=181717&style=flat" /> </p>
 </div>
