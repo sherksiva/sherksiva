@@ -10,7 +10,7 @@
     customer relations. Expertise in all stages of the development cycle ensures timely
     and successful project delivery.
   </p>
-  <p><a href="https://codesandbox.io/u/sivaprakash441" target="_blank" title="Code Sand Box" target="_blank">CODE SANDBOX</a>.</p></p>
+  <p><a href="https://codesandbox.io/u/sivaprakash441" target="_blank" title="Code Sand Box" target="_blank">CODE SANDBOX</a>, <a href="https://codepen.io/sherksiva" target="_blank" title="Codepen" target="_blank">CODE PEN</a></p>
   <br />
   <div>
     <h4>PROFILE</h4>
