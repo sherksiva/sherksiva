@@ -23,7 +23,7 @@
     <br />
     <p>1.  All Projects Demo Webpage  - <a href="https://projects-demo-site.vercel.app/" target="_blank" title="My all demo projects">Demo</a>.</p>  
     <p>2.  My Detailed Resume Webpage  - <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">Demo</a>.</p>
-    <p>3.  <a href="https://sherksiva.github.io/sivaprakash_weds_amutha/" target="_blank" title="Wedding Invitation Sample">Wedding Invitation Sample (Demo)</a>.</p>
+    <p>3.  Wedding Invitation Sample - <a href="https://sherksiva.github.io/sivaprakash_weds_amutha/" target="_blank" title="Wedding Invitation Sample">Demo</a>.</p>
     <p>4.  Weather Forecasting - <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Demo</a>.</p>
     <p>5.  Birthday Count - <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Demo</a>. </p>
     <p>6.  Profile Badge - <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Demo</a>.</p>
