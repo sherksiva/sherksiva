@@ -21,12 +21,12 @@
     <h4>MY RECENT WORKS</h4>
     <h4>HTML, CSS, JAVASCRIPT, JQUERY PROJECTS</h4>
     <br />
-    <p>0.  <a href="https://projects-demo-site.vercel.app/" target="_blank" title="My all demo projects">All Projects Demo Webpage (Demo) </a>.</p>  
-    <p>1.  <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">My Detailed Resume Webpage (Demo)</a>.</p>
-    <p>2.  <a href="https://sherksiva.github.io/sivaprakash_weds_amutha/" target="_blank" title="Wedding Invitation Sample">Wedding Invitation Sample (Demo)</a>.</p>
-    <p>3.  <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Weather Forecasting (Demo)</a>.</p>
-    <p>4.  <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Birthday Count (Demo)</a>. </p>
-    <p>5.  <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Profile Badge (Demo)</a>.</p>
+    <p>1.  All Projects Demo Webpage  - <a href="https://projects-demo-site.vercel.app/" target="_blank" title="My all demo projects">Demo</a>.</p>  
+    <p>2.  My Detailed Resume Webpage  - <a href="https://sherksiva.github.io" target="_blank" title="My Detailed Resume Webpage" target="_blank">Demo</a>.</p>
+    <p>3.  <a href="https://sherksiva.github.io/sivaprakash_weds_amutha/" target="_blank" title="Wedding Invitation Sample">Wedding Invitation Sample (Demo)</a>.</p>
+    <p>4.  Weather Forecasting - <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Demo</a>.</p>
+    <p>5.  Birthday Count - <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Demo</a>. </p>
+    <p>6.  Profile Badge - <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Demo</a>.</p>
     <br />
     <h4>REACT DEMO</h4>
     <br />
