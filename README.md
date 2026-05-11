@@ -47,6 +47,7 @@
     <p>15. React TODO App <a href="https://sherksivatodo-appversion001.vercel.app/" title="ToDo App" target="_blank">Demo</a>-
       <a href="https://github.com/sherksiva/ToDoApp" title="ToDo App Github" target="_blank">Github</a></p>
     <p>16. React Weather App <a href="https://github.com/sherksiva/weather-nextjs-app" title="weather app" target="_blank">Weather App Github</a></p>
+    <p>17. React Api with Custom filter - <a href="https://github.com/sherksiva/react_api_call_with_custom_search_hook" title="search hook" target="_blank">Github</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
