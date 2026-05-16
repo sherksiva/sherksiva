@@ -48,7 +48,7 @@
       <a href="https://github.com/sherksiva/ToDoApp" title="ToDo App Github" target="_blank">Github</a></p>
     <p>16. React Weather App <a href="https://github.com/sherksiva/weather-nextjs-app" title="weather app" target="_blank">Weather App Github</a></p>
     <p>17. React Api with Custom filter, Advanced filter and TicTocTic game - <a href="https://reactapicallwithcustomsearchhookv01.vercel.app/" title="Custom Search" target="_blank">Demo</a>-<a href="https://github.com/sherksiva/react_api_call_with_custom_search_hook" title="search hook" target="_blank">Github</a></p>
-    <p>18. React Tailwind Dashboard with customization in Tsx<a href="https://github.com/sherksiva/react_custom_dashboard_tailwind_css" title="Dashboard" target="_blank">Github</a></p>
+    <p>18. React Tailwind Dashboard with customization in Tsx - <a href="https://github.com/sherksiva/react_custom_dashboard_tailwind_css" title="Dashboard" target="_blank">Github</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
