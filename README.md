@@ -49,6 +49,7 @@
     <p>16. React Weather App <a href="https://github.com/sherksiva/weather-nextjs-app" title="weather app" target="_blank">Weather App Github</a></p>
     <p>17. React Api with Custom filter, Advanced filter and TicTocTic game - <a href="https://reactapicallwithcustomsearchhookv01.vercel.app/" title="Custom Search" target="_blank">Demo</a>-<a href="https://github.com/sherksiva/react_api_call_with_custom_search_hook" title="search hook" target="_blank">Github</a></p>
     <p>18. React Tailwind Dashboard with customization in Tsx - <a href="https://github.com/sherksiva/react_custom_dashboard_tailwind_css" title="Dashboard" target="_blank">Github</a>-<a href="https://github.com/sherksiva/react_custom_dashboard_tailwind_css/commits/main/" title="Commit History" target="_blank">Commit History</a></p>
+    <p>19. React nested router App - <a href="https://github.com/sherksiva/react-router-app-sample" title="Nested route github" target="_blank">Github</a> - <a href="https://react-router-app-samplev01.vercel.app/" title="Nested Route app" target="_blank">Demo</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
