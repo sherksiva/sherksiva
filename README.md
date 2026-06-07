@@ -27,6 +27,7 @@
     <p>4.  Weather Forecasting - <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Demo</a>.</p>
     <p>5.  Birthday Count - <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Demo</a>. </p>
     <p>6.  Profile Badge - <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Demo</a>.</p>
+    <p>7.  New Wedding Site - <a href="https://sherksiva.github.io/kamal_weds_asina/" target="_blank" title="New Wedding Card">Demo</a></p>
     <br />
     <h4>REACT DEMO</h4>
     <br />
