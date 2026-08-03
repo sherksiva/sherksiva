@@ -11,7 +11,7 @@
     and successful project delivery.
   </p>
   <p><a href="https://codesandbox.io">
-  <img src="https://jsdelivr.net" alt="CodeSandbox" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/32880324?s=200&v=4" alt="CodeSandbox" width="40" height="40" />
 </a></p>
   <p><a href="https://codesandbox.io/u/sivaprakash441" target="_blank" title="Code Sand Box" target="_blank">CODE SANDBOX</a>, <a href="https://codepen.io/sherksiva" target="_blank" title="Codepen" target="_blank">CODE PEN</a></p>
   <br />
