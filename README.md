@@ -30,18 +30,17 @@
     <p>4.  Weather Forecasting - <a href="https://sherksiva.github.io/weather_forecasting/" target="_blank" title="Weather Forecasting">Demo</a>.</p>
     <p>5.  Birthday Count - <a href="https://sivaprakashbirthdaycountv1.vercel.app/" target="_blank" title="Birthday Count Page">Demo</a>. </p>
     <p>6.  Profile Badge - <a href="https://profilebadgev1.vercel.app/" target="_blank" title="Profile Badge Demo">Demo</a>.</p>
-    <p>7.  New Wedding Site - <a href="https://sherksiva.github.io/kamal_weds_asina/" target="_blank" title="New Wedding Card">Demo</a></p>
     <br />
     <h4>REACT DEMO</h4>
     <br />
-    <p>1.  Pagination only get call - React, HTML, CSS  - <a href="https://reactpagination-alpha.vercel.app/" target="_blank" title="React Pagination">Demo</a>-<a href="https://github.com/sherksiva/List-Pagination-React" target="_blank" title="Pagination Github">Github</a></p>
-    <p>2.  It having a CURD operation - React , HTML , CSS, node [CURD] - <a href="https://curdreactcomponent.vercel.app/" target="_blank" title="React CRUD">Demo</a>-<a href="https://github.com/sherksiva/curdreactcomponent" target="_blank" title="curd component">Github</a></p>
-    <p>3.  It having a component splitting and powerful use of components for search bar- <a href="https://reactsearchbarversion01.vercel.app/" target="_blank" title="React Search Bar">Demo</a>-<a href="https://github.com/sherksiva/reactSearchBar" target="_blank" title="search bar">https://github.com/sherksiva/reactSearchBar</a></p>
+    <p>1.  Pagination  - React, HTML, CSS  - <a href="https://reactpagination-alpha.vercel.app/" target="_blank" title="React Pagination">Demo</a>-<a href="https://github.com/sherksiva/List-Pagination-React" target="_blank" title="Pagination Github">Github</a></p>
+    <p>2.  CURD operation - React , HTML , CSS, node [CURD] - <a href="https://curdreactcomponent.vercel.app/" target="_blank" title="React CRUD">Demo</a>-<a href="https://github.com/sherksiva/curdreactcomponent" target="_blank" title="curd component">Github</a></p>
+    <p>3.  Component splitting and powerful use of components for search bar- <a href="https://reactsearchbarversion01.vercel.app/" target="_blank" title="React Search Bar">Demo</a>-<a href="https://github.com/sherksiva/reactSearchBar" target="_blank" title="search bar">https://github.com/sherksiva/reactSearchBar</a></p>
     <p>4.  Runs perfectly in local [having some problem in versal] - <a href ="https://github.com/sherksiva/reactwithfirebase"  target="_blank" title="React Firebase">React fireBase with google Login (Github)</a>.</p>
-    <p>5.  It having a list of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" >Demo</a>-<a href="https://github.com/sherksiva/plantstorereactapp.v0.1" target="_blank" title="PlantStore Github">Github</a></p>
-    <p>7.  It having a list of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Demo</a>-<a href="https://github.com/sherksiva/cloudexperiencesreact" title="Cloud app landing Page" target="_blank">Github</a></p>
-    <p>8.  It having a Notes list and multiple components spliting and best code - <a href="https://reacttsnotpadrspv01.vercel.app/" targer="_blank" title="notes">Demo</a>-<a href="https://github.com/sherksiva/reacttsnotpad" target="_blank" title="Notes github">Github</a></p>
-    <p>9.  REACT GET Call Alone - <a href="https://github.com/sherksiva/GetApiCallReact" title="React Get Call">Github</a> - <a href="https://reactapicallsample.vercel.app/">Demo</a>.</p>
+    <p>5.  List of plants, header, cardblock, footer with splited components - <a href="https://plantstorereactappsampledeployment.vercel.app/" target="_blank" title="Plants Shop" >Demo</a>-<a href="https://github.com/sherksiva/plantstorereactapp.v0.1" target="_blank" title="PlantStore Github">Github</a></p>
+    <p>7.  List of cloudData, header, footer with splited components - <a href="https://cloudexperiencesreact.vercel.app/" target="_blank" title="cloud cards" > Demo</a>-<a href="https://github.com/sherksiva/cloudexperiencesreact" title="Cloud app landing Page" target="_blank">Github</a></p>
+    <p>8.  Notes list and multiple components spliting and best code - <a href="https://reacttsnotpadrspv01.vercel.app/" targer="_blank" title="notes">Demo</a>-<a href="https://github.com/sherksiva/reacttsnotpad" target="_blank" title="Notes github">Github</a></p>
+    <p>9.  REACT GET Api - <a href="https://github.com/sherksiva/GetApiCallReact" title="React Get Call">Github</a> - <a href="https://reactapicallsample.vercel.app/">Demo</a>.</p>
     <p>10. REACT CRUD UI only - <a href="https://github.com/sherksiva/ReactCRUD" title="React CRUD Call">Github </a> - <a href="https://reactcrud-iota.vercel.app/">Demo</a>.</p>
     <p>11. REACT with api CRUD Hooks - <a href="https://github.com/sherksiva/reactHooksForCRUD" title="React CRUD Call with Hooks">Github</a> - 
            <a href="https://crudoperationreacthooks.vercel.app/"> Demo</a>.</p>
