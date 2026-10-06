@@ -56,6 +56,7 @@
     <p>20. React Theme Provider <a href="https://github.com/sherksiva/react-theme-multiple" title="React Theme Module" target="_blank">Github</a> - <a href="https://react-theme-multiple.vercel.app/" title="React theme provider">Demo</a></p>
     <p>21. React Custom Components <a href="https://github.com/sherksiva/react_custom_components" title="react custom componetns github" target="_blank">Github</a> - <a href="https://reactcustomcomponentsv01.vercel.app/" title="react custom componetns" target="_blank">Demo</a></p>
     <p>22. React redux toolkit sample -<a href="https://github.com/sherksiva/react-redux-toolkit-counter" title="Github repo for counter toolkit react-redux">Github</a> - <a href="https://react-redux-toolkit-counter-sample-loc2yr9kl.vercel.app/" title="Toolkit sample page">Demo</a></p>
+    <p>23. React Theme <a href="https://github.com/sherksiva/react-theme-templete" title="Github theme provider">Github</a> - <a href="https://react-theme-templete-sample.vercel.app/" title="Demo page">Demo</a></p>
     <br />
     <h4>NODE DEMO</h4>
     <br />
